@@ -6,7 +6,7 @@ Um den Code auszuführen Müssen die LEDs gemäss Schaltplan mit dem MOSI Pin19 
 
 pip install pi5neo --break-system-packages
 
-Um das Programm beim Boot auszuführen muss die ./bashrc Datei bearbeitet werden:
+Um das Programm beim Boot auszuführen muss die .bashrc Datei bearbeitet werden:
 
 sudo nano /home/pi/.bashrc
 
