@@ -16,3 +16,5 @@ echo Running at boot
 sudo python /home/pi/wordclock.py
 
 Die Uhr sollte leuchten sobald der Knopf gedrückt wird.
+
+![Aufbau Schema](https://github.com/user-attachments/assets/068d869a-4121-4520-8055-b86aa158f5be)
