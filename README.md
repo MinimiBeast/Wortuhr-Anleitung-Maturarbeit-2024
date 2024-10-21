@@ -2,7 +2,7 @@
 
 In dieser Bilbiothek ist sind alle Dateien rund um meine Maturarbeit. In der Maturarbeit steht eine Anleitung zum Nachbau der Wortuhr. 
 
-Um den Code auszuführen Müssen die LEDs gemäss Schaltplan mit dem MOSI Pin19 des Raspberry Pis verbunden sein. Wenn man keinen Knopf anschliessen will kann dieser weggelassen werden und der entsprechende Code entfernt werden. Weiter braucht der Code die Pi5Neo Bibliothek die man im Terminal mit diesem Befehl installieren kann:
+Um den Code auszuführen Müssen die LEDs gemäss Schaltplan mit dem MOSI Pin19 des Raspberry Pis verbunden sein. Wenn man keinen Knopf anschliessen will kann dieser weggelassen werden und der entsprechende Code entfernt werden. Weiter braucht der Code die Pi5Neo Bibliothek (https://pypi.org/project/Pi5Neo/) die man im Terminal mit diesem Befehl installieren kann:
 
 pip install pi5neo --break-system-packages
 
